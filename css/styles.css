@@ -1,6 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 .cover {
   width: 100%;
-  display: cover;
+  height:41rem;
+  /* display: cover; */
 }
 .container {
   text-align: center;
