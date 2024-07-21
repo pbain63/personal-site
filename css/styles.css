@@ -46,7 +46,9 @@ button {
   width: 220px;
   height: 60px;
   border-radius: 20px;
-  background-color: #23a6d5;
+  /* background-color: #23a6d5; */
+  background-color: #00738c;
+  color: white;
 }
 .heading1 {
   font-size: 2.3rem;
