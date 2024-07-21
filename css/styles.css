@@ -44,9 +44,9 @@ ul li {
 
 button {
   font: inherit;
-  width: 220px;
-  height: 60px;
-  border-radius: 20px;
+  width: 13rem;
+  height: 3rem;
+  border-radius: 15px;
   background-color: #005a72;
   color: white;
   cursor: pointer;
