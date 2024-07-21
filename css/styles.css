@@ -42,13 +42,11 @@ ul li {
   }
 }
 
-button .btn {
-  display: block;
-  width: 100px;
-  height: 100px;
-  border-radius: 30px;
-  /* background-color: red; */
-  
+button {
+  width: 220px;
+  height: 60px;
+  border-radius: 20px;
+  background-color: #23a6d5;
 }
 .heading1 {
   font-size: 2.3rem;
