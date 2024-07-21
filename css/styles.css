@@ -43,6 +43,7 @@ ul li {
 }
 
 button {
+  font: inherit;
   width: 220px;
   height: 60px;
   border-radius: 20px;
