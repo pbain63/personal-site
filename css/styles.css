@@ -57,3 +57,8 @@ ul li {
 #footer {
   height: 15rem;
 }
+
+footer ul {
+  display: flex;
+  justify-content: space-around;
+}
