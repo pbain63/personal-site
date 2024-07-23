@@ -62,3 +62,6 @@ footer ul {
   display: flex;
   justify-content: space-around;
 }
+footer a {
+  text-decoration: none;
+}
