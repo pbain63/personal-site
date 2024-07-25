@@ -45,11 +45,12 @@ ul li {
 button {
   font: inherit;
   width: 14rem;
-  height: 5rem;
+  height: 4rem;
   border-radius: 15px;
   background-color: #005a72;
   color: white;
   cursor: pointer;
+ 
 }
 .heading1 {
   font-size: 2.3rem;
