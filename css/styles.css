@@ -18,6 +18,9 @@ body {
   width: 200px;
   border-radius: 50%;
 }
+.online-resume {
+  margin-bottom: 3rem;
+}
 ul li {
   list-style: none;
   margin-top: 20px;
