@@ -72,3 +72,8 @@ footer ul {
 footer a {
   text-decoration: none;
 }
+
+/* ////// */
+.paragraphFont li a {
+  text-decoration: none;
+}
