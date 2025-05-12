@@ -18,7 +18,8 @@ body {
   width: 200px;
   border-radius: 50%;
 }
-.online-resume, .display-4 {
+.online-resume,
+.display-4 {
   margin-bottom: 4rem;
 }
 ul li {
@@ -53,7 +54,6 @@ button {
   background-color: #005a72;
   color: white;
   cursor: pointer;
- 
 }
 .heading1 {
   font-size: 2.3rem;
@@ -73,7 +73,14 @@ footer a {
   text-decoration: none;
 }
 
-/* ////// */
+/* // add later */
 .paragraphFont li a {
   text-decoration: none;
+}
+.pre_heading_name {
+  margin-top: 4em;
+}
+.heading_name {
+  font-size: calc(1.5em + 4vw);
+  color: #005a72;
 }
