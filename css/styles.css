@@ -5,10 +5,10 @@ body {
 * {
   box-sizing: border-box;
 }
-.cover {
+/* .cover {
   width: 100%;
   height: 41rem;
-}
+} */
 .container {
   text-align: center;
 }
