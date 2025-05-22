@@ -86,4 +86,5 @@ footer a {
 .heading_name {
   font-size: calc(1.5em + 4vw);
   color: #005a72;
+  font-weight: bold;
 }
