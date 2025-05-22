@@ -18,7 +18,7 @@ body {
   width: 200px;
   border-radius: 50%;
 }
-.online-resume,
+
 .display-4 {
   margin-bottom: 4rem;
 }
@@ -76,7 +76,7 @@ footer a {
   text-decoration: none;
 }
 
-/* // add later */
+/* // added later */
 .paragraphFont li a {
   text-decoration: none;
 }
@@ -87,4 +87,12 @@ footer a {
   font-size: calc(1.5em + 4vw);
   color: #005a72;
   font-weight: bold;
+}
+#cover_photo,
+#intro_and_bg,
+#online_resume,
+#projects,
+#about_me,
+#contact_me {
+  margin-bottom: 7rem;
 }
