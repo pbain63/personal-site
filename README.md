@@ -1,6 +1,8 @@
 # My Personal Portfolio Website
 
-Live Demo: pbain63.github.io/personal-site
+Live Demo: 
+
+https://pbain63.github.io/personal-site
 
 Welcome to the digital corner of my creative world! This is my personal portfolio site — a handcrafted space where I showcase my work and connect with like-minded creatives, developers, and collaborators.
 
@@ -33,6 +35,7 @@ CSS3 – the style
 Prodip Bain
 
 prodipbain63@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/prodip-bain-07aa7935b/
 
 Let’s connect — I’m always open to new ideas and creative opportunities!
