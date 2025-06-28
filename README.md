@@ -1,8 +1,6 @@
 # My Personal Portfolio Website
 
-Live Demo: 
-
-https://pbain63.github.io/personal-site
+### [Live Demo](https://pbain63.github.io/personal-site)
 
 Welcome to the digital corner of my creative world! This is my personal portfolio site — a handcrafted space where I showcase my work and connect with like-minded creatives, developers, and collaborators.
 
